@@ -4,3 +4,4 @@
 # Members:
 
 - Sebastian Silva
+- Randy Bui
