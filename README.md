@@ -5,3 +5,5 @@
 
 - Sebastian Silva
 - Randy Bui
+- Nicholas T.C.
+- Nicholas N.
