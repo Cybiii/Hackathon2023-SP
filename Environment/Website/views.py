@@ -1,3 +1,12 @@
 from django.shortcuts import render
+from django.http import HttpResponse
 
-# Create your views here.
+def home(request):
+    return render(request, 'Website/home.html')
+
+def one(request):
+    return render(request, 'Website/one.html')
+
+def two(request):
+    return render(request, 'Website/two.html')
+
